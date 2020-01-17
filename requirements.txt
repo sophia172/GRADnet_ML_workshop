@@ -5,3 +5,4 @@ scikit-plot
 sklearn
 pydotplus
 keras
+tensorflow
