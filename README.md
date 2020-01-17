@@ -9,9 +9,9 @@ different algorithms including:
 
 Please see the following web page for the GRADnet ML meeting:
   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sophia172/GRADnet_ML_workshop.git/master)
-  .. image:: https://mybinder.org/badge_logo.svg
-:target: https://mybinder.org/v2/gh/sophia172/GRADnet_ML_workshop.git/master
-   http://www.sepnet.ac.uk/sepnet-graduate-network/training-events-201920/machine-learning-and-ai-workshop-15-16-january-2020/
+
+
+    http://www.sepnet.ac.uk/sepnet-graduate-network/training-events-201920/machine-learning-and-ai-workshop-15-16-january-2020/
 
 -------------------------------------------------------------------------------------------------
 Getting Started:
