@@ -8,9 +8,11 @@ different algorithms including:
   Neural Networks
 
 Please see the following web page for the GRADnet ML meeting:
-  
+  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sophia172/GRADnet_ML_workshop.git/master)
+  .. image:: https://mybinder.org/badge_logo.svg
+:target: https://mybinder.org/v2/gh/sophia172/GRADnet_ML_workshop.git/master
    http://www.sepnet.ac.uk/sepnet-graduate-network/training-events-201920/machine-learning-and-ai-workshop-15-16-january-2020/
-  
+
 -------------------------------------------------------------------------------------------------
 Getting Started:
 ----------------
@@ -27,8 +29,8 @@ Software Requirements:
 The Python environment that these tutorials has been tested on is packaged in the Anaconda framework: https://www.anaconda.com
 
 Install Anaconda and then obtain the following packages:
-* scikit-plot (`conda install -c conda-forge scikit-plot` OR `pip install scikit-plot`)  
-* opencv (`conda install -c conda-forge opencv` OR `pip install opencv-python`)  
+* scikit-plot (`conda install -c conda-forge scikit-plot` OR `pip install scikit-plot`)
+* opencv (`conda install -c conda-forge opencv` OR `pip install opencv-python`)
 * keras (`conda install -c conda-forge keras` OR `pip install keras`)
 * tensorflow (`conda install -c conda-forge tensorflow` OR `pip install tensorflow`)
 * pydotplus (`conda install -c conda-forge pydotplus` OR `pip install pydotplus`)

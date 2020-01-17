@@ -38,7 +38,7 @@ history=classifier.fit(x_train, y_train, validation_split=0.33, batch_size=10, e
 #evaluate the loss value and metrics values for the model in test mode using evaluate funcn.
 eval_model=classifier.evaluate(x_train, y_train)
 print('eval_model: ', eval_model)
-
+print('y_train example: ',y_train[:10])
 #prediction
 y_pred=classifier.predict(x_test)
 y_pred=(y_pred>0.5) #if prediction is greater than 0.5, output=1, otherwise=0
